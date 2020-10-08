@@ -22,7 +22,3 @@ int login();
 
 #endif // LIBRARY_H_INCLUDED
 
-
-
-
-
