@@ -1,19 +1,19 @@
 #include<library.h>
-void gotoxy (int x, int y)
+//void gotoxy (int x, int y)
 {
 coord.X = x; coord.Y = y; // X and Y coordinates
 SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
 }
-void main()
+//void main()
 {
 k=Password(password);
 if(k==1)
 {
-mainmenu();
+//mainmenu();
 }
-else
+//else
 {
-printf("login unsuccessfull");
+//printf("login unsuccessfull");
 main();
 
 
