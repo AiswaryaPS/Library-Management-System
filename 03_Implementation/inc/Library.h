@@ -1,6 +1,6 @@
 #ifndef LIBRARY_H_INCLUDED
 #define LIBRARY_H_INCLUDED
-//#include<windows.h>
+#include<windows.h>
 #include<stdio.h>
 //#include<conio.h>
 #include <stdlib.h>
