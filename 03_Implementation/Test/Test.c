@@ -23,7 +23,7 @@
   //CU_cleanup_registry();
 
   //return 0;
-}
+//}
 
 //void test_login(void) {
 //  CU_ASSERT(1 == login("pass"));
