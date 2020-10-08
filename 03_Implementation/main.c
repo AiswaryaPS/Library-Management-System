@@ -1,4 +1,14 @@
 #include <Library.h>
+#ifndef LIBRARY_H_INCLUDED
+#define LIBRARY_H_INCLUDED
+//#include<windows.h>
+#include<stdio.h>
+//#include<conio.h>
+#include <stdlib.h>
+#include<string.h>                  //contains strcmp(),strcpy(),strlen(),etc
+#include<ctype.h>                   //contains toupper(), tolower(),etc
+#endif // LIBRARY_H_INCLUDED
+
 struct meroDate
 {
 int mm,dd,yy;
