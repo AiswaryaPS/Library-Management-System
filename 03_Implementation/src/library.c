@@ -15,8 +15,8 @@ if(k==1)
 printf("login unsuccessfull");
 main();
 }
-getch();
-}
+//getch();
+
   
   
 
