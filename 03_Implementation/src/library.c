@@ -1,4 +1,4 @@
-//#include<library.h>
+#include<library.h>
 //void gotoxy (int x, int y)
 {
 //coord.X = x; coord.Y = y; // X and Y coordinates
