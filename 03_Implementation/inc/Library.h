@@ -9,21 +9,21 @@
 //#include<dos.h>                     //contains _dos_getdate
 //#include<time.h>
 
-void returnfunc(void);
-void mainmenu(void);
-void addbooks(void);
-void deletebooks(void);
-void editbooks(void);
-void searchbooks(void);
-void issuebooks(void);
-void viewbooks(void);
+//void returnfunc(void);
+//void mainmenu(void);
+//void addbooks(void);
+//void deletebooks(void);
+//void editbooks(void);
+//void searchbooks(void);
+//void issuebooks(void);
+//void viewbooks(void);
 void closeapplication(void);
 //int  getdata();
 //int  checkid(int);
 //int t(void);
 void Password();
-void issuerecord();
-void loaderanim();
+//void issuerecord();
+//void loaderanim();
 
 #endif // LIBRARY_H_INCLUDED
 
