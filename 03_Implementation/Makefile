@@ -1,4 +1,4 @@
-PROJECT_NAME =LMS
+PROJECT_NAME = LMS
 
 BUILD = build
 
