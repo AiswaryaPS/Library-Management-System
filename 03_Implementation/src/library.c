@@ -16,7 +16,7 @@ printf("login unsuccessfull");
 main();
 }
 }
-getch();
+//getch();
 
 
   
