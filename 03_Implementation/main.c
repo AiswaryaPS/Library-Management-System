@@ -26,12 +26,6 @@ int mm,dd,yy;
 //searchbooks();
 //break;
 //case '4':
-struct books
-{
-int id;
-char stname[20];
-char name[20];
-char Author[20];
 //issuebooks();
 //break;
 //case '5':
