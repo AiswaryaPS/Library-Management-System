@@ -1,5 +1,4 @@
-PROJECT_NAME = Library Management System
-
+PROJECT_NAME =LMS
 
 BUILD = build
 
