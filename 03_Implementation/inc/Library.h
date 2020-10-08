@@ -1,3 +1,5 @@
+#ifndef LIBRARY_H_INCLUDED
+#define LIBRARY_H_INCLUDED
 #include<windows.h>
 #include<stdio.h>
 #include<conio.h>
@@ -6,11 +8,7 @@
 #include<ctype.h>                   //contains toupper(), tolower(),etc
 #include<dos.h>                     //contains _dos_getdate
 #include<time.h>
-//#include<bios.h>
 
-#define RETURNTIME 15
-
-char catagories[][15]={"Computer","Electronics","Electrical","Civil","Mechnnical","Architecture"};
 void returnfunc(void);
 void mainmenu(void);
 void addbooks(void);
@@ -23,8 +21,11 @@ void closeapplication(void);
 int  getdata();
 int  checkid(int);
 int t(void);
-//void show_mouse(void);
-int Password();
+void Password();
 void issuerecord();
 void loaderanim();
+
+#endif // LIBRARY_H_INCLUDED
+
+
 
