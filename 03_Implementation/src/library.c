@@ -16,17 +16,6 @@ printf("login unsuccessfull");
 main();
 }
 }
-char password[10]={"pass"};
-void main()
-{
- int k;
-//k=password(password);
-if(k==1)
-{
-printf("login unsuccessfull");
-main();
-}
-}
 //getch();
 
 
