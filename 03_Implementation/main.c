@@ -23,7 +23,6 @@ void mainmenu()
 //loaderanim();
 system("cls");
 //    textbackground(13);
-int i;
 gotoxy(20,3);
 printf("\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2 MAIN MENU \xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2");
 //    show_mouse();
@@ -44,7 +43,6 @@ printf("\xDB\xDB\xDB\xDB\xB2 7. Close Application");
 gotoxy(20,19);
 printf("\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2");
 gotoxy(20,20);
-t();
 gotoxy(20,21);
 printf("Enter your choice:");
 switch(getch())
@@ -101,7 +99,6 @@ mainmenu();
 void addbooks(void)    //funtion that add books
 {
 system("cls");
-int i;
 gotoxy(20,5);
 printf("\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2SELECT CATEGOIES\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2\xB2");
 gotoxy(20,7);
@@ -125,7 +122,7 @@ printf("Enter your choice:");
 scanf("%d",&s);
 if(s==7)
 
-mainmenu() ;
+mainmenu();
 system("cls");
 fp=fopen("Bibek.dat","ab+");
 if(getdata()==1)
