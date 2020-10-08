@@ -19,6 +19,5 @@
 //void Password();
 //void issuerecord();
 //void loaderanim();
-
 #endif // LIBRARY_H_INCLUDED
 
