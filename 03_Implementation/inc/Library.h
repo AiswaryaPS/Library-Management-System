@@ -28,19 +28,3 @@ int Password();
 void issuerecord();
 void loaderanim();
 
-//list of global files that can be acceed form anywhere in program
-FILE *fp,*ft,*fs;
-
-
-COORD coord = {0, 0};
-//list of global variable
-int s,k,p;
-char findbook;
-char password[10]={"pass"};
-
-void gotoxy (int x, int y)
-{
-coord.X = x; coord.Y = y; // X and Y coordinates
-SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
-}
-
