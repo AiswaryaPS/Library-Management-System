@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include<string.h>                  //contains strcmp(),strcpy(),strlen(),etc
 #include<ctype.h>                   //contains toupper(), tolower(),etc
-int login();
+//int login();
 //void returnfunc(void);
 //void mainmenu(void);
 //void addbooks(void);
