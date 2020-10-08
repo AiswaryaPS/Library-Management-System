@@ -8,7 +8,7 @@
 //#include<ctype.h>                   //contains toupper(), tolower(),etc
 //#include<dos.h>                     //contains _dos_getdate
 //#include<time.h>
-
+int login();
 void returnfunc(void);
 void mainmenu(void);
 void addbooks(void);
