@@ -28,8 +28,5 @@ int main() {
 void test_login(void) {
   CU_ASSERT(1 == login("pass"));
   CU_ASSERT(1 == login("wrong"));//dummy fail case
-
-
-
 }
 
