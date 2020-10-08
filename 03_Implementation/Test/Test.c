@@ -1,7 +1,7 @@
 #include <CUnit/Basic.h>
 #include <CUnit/CUnit.h>
 
-#define PROJECT_NAME    "Library Management System"
+#define PROJECT_NAME    "LMS"
 #include<Library.h>
 
 void test_login(void);
