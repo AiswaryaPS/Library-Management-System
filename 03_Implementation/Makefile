@@ -4,10 +4,10 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/library.c\
+src/Library.c\
 
 # All test source files
-TEST_SRC = src/library.c\
+TEST_SRC = src/Library.c\
 test/Test.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
