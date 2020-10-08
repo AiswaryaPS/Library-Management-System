@@ -8,7 +8,7 @@ src/library.c\
 
 # All test source files
 TEST_SRC = src/library.c\
-test/Test.c
+test/test.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
