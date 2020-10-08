@@ -77,17 +77,17 @@ gotoxy(10,10);
 printf("Returning Date:%d-%d-%d",a.duedate.dd,a.duedate.mm,a.duedate.yy);
 }
 
-char password[10]={"pass"};
-void main()
-{
- int k;
+//char password[10]={"pass"};
+//void main()
+//{
+ //int k;
 //k=password(password);
-if(k==1)
-{
-printf("login unsuccessfull");
-main();
-}
-}
+//if(k==1)
+//{
+//printf("login unsuccessfull");
+//main();
+//}
+//}
 //getch();
 
 
