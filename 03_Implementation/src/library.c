@@ -19,7 +19,8 @@ main();
 
 
 }
-//getch();
+getch();
+}
   
   
 
