@@ -12,13 +12,8 @@ void main()
 //k=password(password);
 if(k==1)
 {
-mainmenu();
-}
-else
-{
 printf("login unsuccessfull");
 main();
-}
 }
 getch();
 }
