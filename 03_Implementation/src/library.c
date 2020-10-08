@@ -6,6 +6,7 @@
 }
 void main()
 {
+ int k;
 k=Password(password);
 if(k==1)
 {
