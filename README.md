@@ -13,5 +13,5 @@ Viewing records of books
 Searching for books.
 The efficiency of a library lies on how books are arranged, how easily one can get the books of their choice,to  view  record of book issue & delete record of book issue.To do all these functions by manual library management is very much hectic. Inorder to avoid this hectic situation this simple mini project is proposed.
 
-
+Login Password:-pass
 
