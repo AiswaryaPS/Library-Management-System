@@ -8,9 +8,15 @@
 ![C/C++ CI](https://github.com/stepin105010/Library-Management-System/workflows/C/C++%20CI/badge.svg)
 
 
-Library-Management-System
+ LIBRARY  MANAGEMENT
 
-
+The  Library management system for managing all the process involved in a library in the most efficient ways. This project can do basic library management tasks like
+Adding the book
+Deleting books
+Issuing books
+Edit details of books
+Viewing records of books 
+Searching for books.
 
 Login:
   password:-pass
