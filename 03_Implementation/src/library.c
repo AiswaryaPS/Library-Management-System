@@ -9,7 +9,7 @@ char Password[10]={"pass"};
 void main()
 {
  int k;
-k=password(password);
+//k=password(password);
 if(k==1)
 {
 printf("login unsuccessfull");
