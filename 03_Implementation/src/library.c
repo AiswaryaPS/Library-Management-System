@@ -5,7 +5,7 @@
 //SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), coord);
 //}
 
-char password[10]={"pass"};
+char Password[10]={"pass"};
 void main()
 {
  int k;
