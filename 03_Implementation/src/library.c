@@ -1,4 +1,4 @@
-#include<Library.h>
+/*#include<Library.h>
 int Password(char password[10]) //for password option
 {
 
@@ -51,7 +51,7 @@ printf("Password match");
 //gotoxy(17,10);
 printf("Press enter to countinue.....");
 //scanf("%c",&l);
-//getch();
+//getch();*/
 
 
   
