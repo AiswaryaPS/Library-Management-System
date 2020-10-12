@@ -26,7 +26,7 @@ int main() {
 }
 
 void test_Password(void) {
-CU_ASSERT(1 == Password"pass"));
+CU_ASSERT(1 == Password("pass"));
   CU_ASSERT(1 == Password("wrong"));//dummy fail case
 }
 
