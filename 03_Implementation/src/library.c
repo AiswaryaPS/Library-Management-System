@@ -41,7 +41,7 @@ if(ch!=13 && ch!=8){
 }
 pass[i] = '\0';*/
 printf("Enter Password:");
-scanf("%s",Password);
+//scanf("%s",Password);
 if(strcmp(pass,password)==0)
 {
 
@@ -50,7 +50,7 @@ if(strcmp(pass,password)==0)
 printf("Password match");
 //gotoxy(17,10);
 printf("Press enter to countinue.....");
-scanf("%c",&l);
+//scanf("%c",&l);
 //getch();
 
 
